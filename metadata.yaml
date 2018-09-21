@@ -1,5 +1,8 @@
 _repo: Pretextes-Reflexions-sur-quelques-points-de-litterature-et-de-morale_54393
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54393-h/images/cover.jpg
 creator:
   author:
     agent_name: Gide, André
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2184
     wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Gide
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54393#Pretextes-Reflexions-sur-quelques-points-de-litterature-et-de-morale
 gutenberg_bookshelf:
 - FR Littérature
 - FR Chroniques
